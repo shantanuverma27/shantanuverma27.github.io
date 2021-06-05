@@ -61,7 +61,7 @@ Company - Infosys (From 2006 to 2007),
 Location - Pune
 
 ### Education and Certifications
-* MBA from MDI Gurgaon - 2009 to 2011
+* MBA from MDI Gurgaon - 2009 to 2011 (CAT 99.43 percentile)
 * Engineering from BIT Sindri - 2002 to 2006
 * Executive Program in Project Management from XLRI Jamshedpur - 2020 to 2021
 * ISO22301 Lead Implementer BCMS from BSI
