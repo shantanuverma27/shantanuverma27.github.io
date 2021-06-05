@@ -1,10 +1,6 @@
-# Welcome to my website
+## Welcome to my website
 
-My name is Shantanu Verma. I have great interest in project management, data science and machine learning.
-
-In my professional experience, I have seen that whenever we talk of data science and machine learning, we usually talk about roles such as data analyst, data engineer and machine learning engineer. But I have never come across a role which talks about project management of data science projects. And I often wonder why!!
-
-It is a well established fact that the skillsets required for an IT project management is different ------ More to come
+My name is Shantanu Verma. I have created this website to share some skills and best practices with all of you based on my experiences in my professional and non-professional life. Here you will find resources on various topics that I have been exposed to. And I hope these resources will help people in some way or other.
 
 ### Markdown
 
