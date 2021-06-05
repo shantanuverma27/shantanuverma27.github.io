@@ -1,4 +1,4 @@
-## Welcome to my website
+## Welcome to my website                                                                                                                               [My Profile](/resume.md)   
 
 Hello there!! My name is Shantanu Verma.
 
@@ -10,9 +10,8 @@ Please browse through the links given below to further delve into your choice of
 
 You can contact me at shantanu.verma27@gmail.com.
 
-[My Profile](/resume.md)
-
 ##### Happy surfing!!!
+
 
 ### Links to resources
 
