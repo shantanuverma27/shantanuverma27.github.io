@@ -5,3 +5,7 @@ Well, you are partially right and partially wrong in your assumption about proje
 Project management requires its own set of technical skills and expertise. Moreover, in addition to the specialized technical skills, project management requires a huge deal of non-technical soft skills. And I sincerely hope that after going through the various resources shared here, you will change your earlier mindset about project management as a trade and appreciate the fact that project management is a specialized function.
 
 So what are you waiting for - go ahead and browse the following resources on project management and I am sure you will like it.
+
+### Resources
+
+-- Coming soon
