@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/shantanuverma27/shantanuverma27.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Shantanu Verma. I have great interest in project management, data science and machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my professional experience, I have seen that whenever we talk of data science and machine learning, we usually talk about roles such as data analyst, data engineer and machine learning engineer. But I have never come across a role which talks about project management of data science projects. And I often wonder why!!
+
+It is a well established fact that the skillsets required for an IT project management is different ------ More to come
 
 ### Markdown
 
