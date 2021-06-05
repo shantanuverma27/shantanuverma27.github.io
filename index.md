@@ -16,5 +16,5 @@ You can contact me at shantanu.verma27@gmail.com.
 
 ### Links to resources
 
---Coming soon
+[Project Management Resources](/projectmanagement.md)
 
