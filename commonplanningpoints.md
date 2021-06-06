@@ -24,5 +24,9 @@ The start and end dates of the activities and subsequently the whole project sho
 
 * Only after all tasks and their durations have been identified, start identifying the dependencies. Once you have finished linking the tasks according to dependencies, you will automatically get the start and end date for each task and the overall project. This approach of avoiding hard coded dates is very important because when you will revise the project plan later during project review sessions, you will not have to worry about updating dates manually.
 
+* A lot of project managers wonder what shall be the right level of granularity while defining tasks. Ideally and as far as possible, one should follow 2%-5% rule while defining tasks in project plan. That means that if your project's total duration is 100 days, then there should be no task with duration less than 2 days and also there should be no task with duration more than 5 days. This is not a hard and fast rule but a good practice. This approach ensures that during milestone and status review meetings, the status of the tasks are as straight forward as complete or not complete rather than ambiguous status like 67.5% complete.
+
+So once you have created a project plan, it is a good practice to identify such tasks whose duration is too low or too high compared to overall project duration and take appropriate action.
+
 * 
 
