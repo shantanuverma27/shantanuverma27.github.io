@@ -10,5 +10,5 @@ So what are you waiting for - go ahead and browse the following resources on pro
 
 ### Resources
 
-[What is Project Management - Simple Insight](/whatispm.md)
-[Some Project Planning Nitty Gritties](/commonplanningpoints.md)
+* [What is Project Management - Simple Insight](/whatispm.md)
+* [Some Project Planning Nitty Gritties](/commonplanningpoints.md)
