@@ -10,4 +10,4 @@ So what are you waiting for - go ahead and browse the following resources on pro
 
 ### Resources
 
--- Coming soon
+[Some Project Planning Nitty Gritties](/projectmanagement.md)
