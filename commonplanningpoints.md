@@ -28,5 +28,11 @@ The start and end dates of the activities and subsequently the whole project sho
 
 So once you have created a project plan, it is a good practice to identify such tasks whose duration is too low or too high compared to overall project duration and take appropriate action.
 
-* 
+* Everyone checks critical path - no brainer. But the hidden snipers are near critical activities. Experienced project managers give equal importance to near critical activities. These are activities which have very small value of float or slack. Always keep an eye on them as they have the tendency to get converted into critical activity pretty quickly.
+
+* Mostly project managers set the milestones randomly. A better way to set milestones is around the critical path activities. You can set up milestone at the end of some critical path activity. That way, you will be able to track the critical path during the milestone meeting.
+
+* An ideal number of milestones is 5 i.e. milestone at every 20% project completion.
+
+Go ahead and try these small practices in your next project plan and I am sure you will find it useful.
 
