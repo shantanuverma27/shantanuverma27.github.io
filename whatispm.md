@@ -1,21 +1,10 @@
-# The big question - What is project management
+# What is project management
 
-No, I am not going to give any text book definition of project management. I am neither going to make things complex. Like I practice my project management, by following the basics, I will keep this explanation simple and basic as well.
+What is the objective of project management? What should a project manager want to achieve while he is managing a project? Basically, every project management practice should aim at answering the following four questions:
 
-What is the objective of project management? What do you want to achieve when you are managing a project? Basically, every project management practice aims at answering the following four questions:
+* What - What is the project objective and what are the activities to be performed to accomplish those objectives. Tools like project charter and project plan help us in answering this question.
+* When - When can we complete these activities and reach the end result at the earliest as per the scope of the project using the budget assigned to the project. Tools like project plan and resource plan help us answer this question
+* Is it on schedule - Once in the middle of the project, answer if the project is on schedule, within budget and conforming to the scope or not. Tools like milestone meetings, critical path (CPM), cost and time variance analysis, earned value help to answer this question.
+* What if not on schedule - How to complete the project if there is deviation from schedule and when will it get completed with the adjusted project constraints. Critical path method, project recovery, cost crashing etc are tools to answer this question.
 
-* What - what are the activities and end result
-* When - when can we complete these activities and reach the end result at the earliest
-* Is it on schedule - once in the middle of the project, answer if the project is on schedule, within budget and conforming to the scope
-* What if not on schedule - how to complete the project if there is deviation from schedule and when will it get completed now
-
-All project management techniques are aimed at broadly answering these 4 questions. There are various tools that project managers use to answer these questions which are in totality called the project management practice.
-
-Let us see some example of the tools used to answer these questions.
-
-* What - project charter and project plans are the tools used to define end results and activities
-* When - predominantly project plans are used to define timelines
-* Is it on schedule - milestone meetings, critical path method, variance analysis are some tools used to answer this question
-* What if not on schedule - critical path method, project recovery using cost crashing are some of the tools used to answer this question
-
-I hope you get a fair bit of idea on what does a project manager want to accomplish from his trade. You can get more details about the concepts like cost crashing in some of my other blogs.
+Project management is nothing but a systematic way of applying these tools to answer the above 4 questions of a project at any given time during the life cycle of the project.
