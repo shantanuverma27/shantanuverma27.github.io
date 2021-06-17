@@ -1,12 +1,10 @@
 ## Welcome to Project Management resources!
 
-Most of you would have always thought what rocket science is there in project management. To most of you, project management would have been the easiest and most straight forward trade with hardly any technical expertise required.
+Project management is an evergreen trade. By that, I mean project management is one such profession which has and which will always remain in demand. That is because project management requires a very high degree of such activities which cannot be automated. For example, the project management processes need acumen of risk assessment based on situation. It also requires mediation skills and stakeholder management skill sets which probably no amount of automation can achieve in the current context. May be some day, when the robots will be able to replace humans for decision making in every aspect of life, we may see project management professionals also being replaced by the robots. But till then, project management is here to stay.
 
-Well, you are partially right and partially wrong in your assumption about project management as a trade. Partially right because yes, project management is not a rocket science. And partially wrong because project management is not the most straight forward activity nor is it that it does not involve technical expertise.
+Having said that, project management requires its unique set of technical and non-technical skills. Through these pages, I would try to bring to you some of these skills which may help somebody to enhance their knowledge of project management or might also help someone to resolve some issues they might be facing in their projects.
 
-Project management requires its own set of technical skills and expertise. Moreover, in addition to the specialized technical skills, project management requires a huge deal of non-technical soft skills. And I sincerely hope that after going through the various resources shared here, you will change your earlier mindset about project management as a trade and appreciate the fact that project management is a specialized function.
-
-So what are you waiting for - go ahead and browse the following resources on project management and I am sure you will like it.
+I wish you happy surfing!!
 
 ### Resources
 
